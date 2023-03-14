@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.welcome {
+    margin-top: 30px;
+}
+
+h1 {
+    color: #17171a;
+    font-size: 65px;
+    font-variant: small-caps;
+    font-family: "Courier New";
+    text-shadow: 2px 2px 0 #bcbcbc, 4px 4px 0 #9c9c9c;
+}
+
+footer {
+    background: black;
+    color: white;
+    height: 3%;
+    bottom: -34px;
+}
+
+.container {
+    text-align: center;
+    margin-top: 23px
+}
+
+table {
+    margin: auto;
+}
+
+input {
+    border-radius: 21px;
+    font-size: 34px;
+    height: 65px;
+    width: 260px;
+    scroll-behavior: smooth;
+}
+
+button {
+    border-radius: 20px;
+    font-size: 20px;
+    background: #ffffff;
+    width: 60px;
+    height: 50px;
+    margin: 6px;
+}
+
+.calculator {
+    background-color: skyblue;
+    padding: 23px;
+    border-radius: 53px;
+    display: inline-block;
+    margin-bottom: 60px;
+
+}
